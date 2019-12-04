@@ -10,6 +10,10 @@
 - 视频播放
 - 搜索
 
+![](http://blog.maomingxqw.cn/images/text/move1.png)
+![](http://blog.maomingxqw.cn/images/text/move2.png)
+![](http://blog.maomingxqw.cn/images/text/move3.png)
+
 
 ## 爬数据项目： https://github.com/liangyes/scrapym
 
